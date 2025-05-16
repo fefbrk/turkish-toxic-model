@@ -6,6 +6,7 @@
 Modelin tahminlerini test edebileceğiniz etkileşimli bir arayüz geliştirilmiştir.  
 Kullanıcılar tahminin doğruluğunu işaretleyip doğru etiketi belirterek geri bildirimde bulunabilirler.
 
+**Not:** Bu görsel yalnızca arayüzü tanıtmak amaçlıdır; tahminin doğruluğu gerçek sonucu temsil etmeyebilir.
 ![Gradio Arayüzü](gradio_arayuz.gif)
 
 
