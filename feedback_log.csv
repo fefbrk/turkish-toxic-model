@@ -1,0 +1,5 @@
+text,model_prediction,confidence,is_correct,correct_label,timestamp
+deneme,OTHER,0.9180,True,OTHER,2025-05-14T17:10:15.707337
+selam,OTHER,0.9121,True,OTHER,2025-05-14T17:10:20.708356
+bu proje harika,OTHER,0.9755,True,OTHER,2025-05-14T17:11:29.141246
+eğitimsiz çalıştırmak için bu kod bloğunu kullanın,OTHER,0.9985,True,OTHER,2025-05-16T16:46:22.865610
