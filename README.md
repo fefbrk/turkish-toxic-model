@@ -1,7 +1,13 @@
 # Türkçe Toksik Metin Sınıflandırma Modeli
 
 
-# Bu proje, Türkçe metinlerdeki toksik içeriği tespit etmeyi amaçlayan bir doğal dil işleme (NLP) modelini içermektedir. Model; cinsiyetçilik, ırkçılık, küfür ve hakaret gibi toksik içerikleri sınıflandırmak için sıfırdan eğitilmiştir.
+## Gradio Arayüzü
+
+Modelin tahminlerini test edebileceğiniz etkileşimli bir arayüz geliştirilmiştir.  
+Kullanıcılar tahminin doğruluğunu işaretleyip doğru etiketi belirterek geri bildirimde bulunabilirler.
+
+![Gradio Arayüzü](gradio_arayuz.gif)
+
 
 
 # Kullanılan Veri Seti:
