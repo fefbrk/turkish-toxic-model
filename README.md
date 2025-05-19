@@ -1,5 +1,6 @@
 # Türkçe Toksik Metin Sınıflandırma Modeli
 
+Efe Burak Balan 2212102044
 
 ## Gradio Arayüzü
 
